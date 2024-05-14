@@ -1,4 +1,5 @@
 ### 리액트 앱 수업에서 사용한 소스임
+- ReadME.md encoding with markdown language
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
